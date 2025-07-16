@@ -26,15 +26,15 @@ author:
   name             : "Hailong Li"
   pronouns         : # example: "she/her"  
   bio              : "Phd"
-  location         : "DaLian"
-  employer         : "DaLian University of Technology"
+  location         : "Dalian"
+  employer         : "Dalian University of Technology"
   uri              : # URL
   email            : "lihl@mail.dlut.edu.cn"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=wsjm7PQAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
