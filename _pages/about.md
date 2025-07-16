@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hailong Li's homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 About me
+======
 He received the M.Eng. degree in 2025 from Inner Mongolia University of Technology, Hohhot, China. He is currently pursuing the Ph.D. degree with the School of Electrical Engineering, Dalian University of Technology, Dalian, China. His research interests include the operation and control of power systems with renewable energy, as well as the applications of digital twins and LLMs in power systems.
 
 Getting started
